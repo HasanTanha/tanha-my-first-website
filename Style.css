@@ -1,0 +1,199 @@
+*{margin:0;padding:0;outline:0}
+body{font-family:arial;font-size:14px;font-height:18px;color:#000; background: url(https://image.freepik.com/free-photo/lightweight-fabric-mesh-lace-blue-paper-texture-fabric-is-beautifully-draped-background-abstract-soft-chiffon-veil-backdrop-bride-concept-classic-blue-color-year-2020_100886-518.jpg);
+background-size: cover;
+background-attachment: fixed;
+}
+
+.templete{width:960px; margin:0 auto; margin-bottom: 5px;}
+.clear{overflow:hidden;}
+.headersection {
+	hieght:500px;
+	background: #006266;
+	color: #fff;
+}
+.logo {width:500px; float:left;}
+.logo img {
+	float: left;
+	padding: 18px;
+	padding-left: 17px;
+	width: 44px;
+}
+.logo h2 {
+	padding-top: 58px;
+	padding-left: 7px;
+	padding-bottom: 1px;
+	font-size: 28px;
+	margin-top: 24px;
+	margin-bottom: 9px;
+	color: whitesmoke;
+	font-family: 'Abril Fatface', cursive;
+}
+.logo p {
+	padding-left: 7px;
+	padding-bottom: 2px; 
+	font-size: medium;
+	font-family: 'Grenze Gotisch', cursive;
+}
+.social{width:200px; float:right;}
+.social img {
+	padding: 7px;
+	/* margin-bottom: 12px; */
+	padding-top: 9px;
+}
+
+.navsection{background: darkcyan}
+.navsection ul{margin:0;padding:0;list-style:none;}
+.navsection ul li{display:block;float:left;}
+.navsection ul li a {
+	display: block;
+	/* background: #B2B2B2; */
+	border: #080000;
+	text-decoration: none;
+	padding: 2px 15px;
+	margin: 5px;
+	font-size: 18px;
+	font-weight: bold;
+	color: white;
+	border: 1px solid black;
+	border-radius: 9px;
+}
+.navsection ul li a:hover {
+	background: #006266;
+	color: red;
+}
+.slidersection {
+	background: #fff;
+	margin-bottom: 13px;
+	box-shadow: 0px 6px 6px 2px #333;
+}
+.contentsection{}
+.maincontent {
+	width: 553px;
+	background: darkcyan;
+	float: left;
+	padding: 10px 20px;
+	margin: 10px;
+	margin-left: 0;
+	border: 1px solid black;
+	margin-top: 0px;
+}
+.samepost{}
+.samepost h2 {
+	/* background: #7F7F7F; */
+	padding: 5px;
+	border-bottom: 2px solid #383802;
+	margin-bottom: 5px;
+	font-size: 24px;
+	color: rgb(131, 7, 7);
+	text-shadow: 2px 2px black;
+	font-weight: bold;
+	
+}
+.samepost img {
+	float: left;
+	width: 238px;
+	margin-right: 10px;
+	background: #fff;
+	padding: 2px;
+	border: 2px solid black;
+}
+.samepost p {
+	font-size: 13px;
+	line-height: 19px;
+	text-align: justify;
+}
+.textdecor{
+	font-family: 'Dancing Script', cursive;
+	font-weight: 700;
+}
+.textdecor2{
+	font-family: 'Grenze Gotisch', cursive;
+	font-weight: 700;
+}
+.readmore {
+	float: right;
+	padding: 10px;
+	margin-top: 3px;
+}
+.readmore a {
+	background: #fff;
+	text-decoration: none;
+	display: block;
+	padding: 1px 3px;
+	font-size: 16px;
+	color: black;
+	border: 2px solid black;
+	border-radius: 6px;
+}
+.readmore a:hover{color:#E6080A;background:#C3C3C3}
+
+.sidebar {
+	width: 325px;
+	background: darkcyan;
+	float: right;
+	padding: 9px;
+	margin: 10px;
+	margin-right: 0;
+	border: 1px solid black;
+	margin-top: 0px;
+}
+.samesidebar {
+	margin-bottom: 6px;
+}
+.samesidebar h2 {
+	background: #006266;
+	padding: 5px;
+	margin-bottom: 6px;
+	color: #fff;
+	box-shadow: 3px 3px 15px -2px black;
+	font-family: 'Galada', cursive; 
+}
+.samesidebar ul{padding:0;margin:0;list-style:none;}
+.samesidebar ul li {
+	font-size: 16px;
+	padding: 5px 8px;
+	border-bottom: 1px dashed #B7B7B7;
+	padding-left: 0px;
+}
+.samesidebar ul li:last-child{border-bottom: 0px dashed #B7B7B7;}
+.samesidebar ul li a {
+	text-decoration: none;
+	color: white;
+} 
+.samesidebar ul li a:hover{color:#B41D05}
+
+.samesidebar p {
+	margin-bottom: 11px;
+	text-align: justify;
+	font-size: 15px;
+}
+}
+
+.footermenu{}
+.footermenu ul{padding:0;margin:0;list-style:none;text-align:center;}
+.footermenu ul li{display:inline-block;list-style:none;}
+.footermenu ul li a {
+	color: #FFFFA4;
+	font-size: 17px;
+	margin-left: 7px;
+	/* text-align: center; */
+	text-decoration: none;
+}
+.footersection p {
+	color: #ffffff;
+	text-align: center;
+	margin-top: 5px;
+	padding: 10px;
+	background: #006266;
+}
+.footermenu .clear {
+	border: 2px solid black;
+}
+.article1 {
+	font-family: 'Merienda One', cursive;
+}
+
+.about{
+	font-family: 'Merienda One', cursive;
+	font-weight: 700;
+}
